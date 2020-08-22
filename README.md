@@ -11,7 +11,7 @@ It has been a strange truth about the pandemic that for most of us, most of the 
 
 The more I thought about Hamblin’s underlying point, though – that not doing things can sometimes be worth feeling good about – the more I wondered why it only applied to not spreading germs. After all, don’t I refrain from doing a theoretically infinite number of things every day, and by so (not) doing, make the world better than otherwise? We’re familiar with this idea of abstention as a virtue in certain specific contexts: in the medical vow to “do no harm”, for example; or frugality as abstention from unnecessary spending; or sobriety as abstention from alcohol. But what about all the times I don’t snap at my partner or son, or the Twitter feuds I don’t get embroiled in? What about all the meat I don’t eat, despite not being vegetarian, or the greenhouse gas emissions I don’t cause? And put aside, for a moment, all those times I succumb to digital distraction when I ought to be working; what about all the times I don’t succumb?
 
-![Branching](stay.jpg)
+![Branching](stay1.jpg)
 
 If this strikes you as a suspiciously simple intellectual trick that probably won’t eliminate everyone’s stress and anxiety for ever, well, I’d have to agree. Obviously, there are countless things I don’t do for which I don’t deserve praise: not murdering people, not vandalising storefronts, not defrauding animal welfare charities in order to buy sports cars and cocaine, the list goes on. Besides, plenty of the stress we feel about getting things done is because we genuinely do need to get them done, simply to stay financially afloat.
 
